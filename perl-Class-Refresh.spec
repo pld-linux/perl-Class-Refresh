@@ -4,7 +4,6 @@
 #
 %define		pdir	Class
 %define		pnam	Refresh
-%include	/usr/lib/rpm/macros.perl
 Summary:	Class::Refresh - refresh your classes during runtime
 Name:		perl-Class-Refresh
 Version:	0.07
